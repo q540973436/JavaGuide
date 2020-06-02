@@ -54,7 +54,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 - [系统设计](#系统设计)
     - [必知](#必知)
     - [常用框架](#常用框架)
-        - [Spring](#spring)
+        - [Spring](#springspringboot)
         - [SpringBoot](#springboot)
         - [MyBatis](#mybatis)
     - [认证授权(JWT、SSO)](#认证授权)
@@ -80,7 +80,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 - [面试指南](#面试指南)
 - [Java学习常见问题汇总](#java学习常见问题汇总)
 - [资源](#资源)
-    - [书单推荐](#书单推荐)
+    - [Java程序员必备书单](#java程序员必备书单)
     - [实战项目推荐](#实战项目推荐)
 - [待办](#待办)
 - [说明](#说明)
@@ -228,9 +228,10 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 3. **[SpringBoot 指南/常见面试题总结](https://github.com/Snailclimb/springboot-guide)**
 3. **[Spring/Spring常用注解总结！安排！](./docs/system-design/framework/spring/spring-annotations.md)**
 4. **[Spring事务总结](docs/system-design/framework/spring/spring-transaction.md)**
-5. [Spring中 Bean 的作用域与生命周期](docs/system-design/framework/spring/SpringBean.md)
-6. [SpringMVC 工作原理详解](docs/system-design/framework/spring/SpringMVC-Principle.md)
-7. [Spring中都用到了那些设计模式?](docs/system-design/framework/spring/Spring-Design-Patterns.md)
+5. [Spring IoC 和 AOP详解](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486938&idx=1&sn=c99ef0233f39a5ffc1b98c81e02dfcd4&chksm=cea24211f9d5cb07fa901183ba4d96187820713a72387788408040822ffb2ed575d28e953ce7&token=1666190828&lang=zh_CN#rd)
+6. [Spring中 Bean 的作用域与生命周期](docs/system-design/framework/spring/SpringBean.md)
+7. [SpringMVC 工作原理详解](docs/system-design/framework/spring/SpringMVC-Principle.md)
+8. [Spring中都用到了那些设计模式?](docs/system-design/framework/spring/Spring-Design-Patterns.md)
 
 #### MyBatis
 
@@ -380,9 +381,9 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 
 ## 资源
 
-### 书单推荐
+### Java程序员必备书单
 
-- **[Java程序员必备书单](docs/books/java.md)**
+1. [「基础篇」Guide的Java后端书架来啦！都是Java程序员必看的书籍？](./docs/books/java基础篇.md)
 
 ### 实战项目推荐
 
@@ -436,11 +437,11 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 下面是笔主收集的一些对本仓库提过有价值的pr或者issue的朋友，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的微信与我联系。下面的排名不分先后！
 
-<a href="https://github.com/fanofxiaofeng">
-    <img src="https://avatars0.githubusercontent.com/u/3983683?s=460&v=4" width="45px">
-</a>
 <a href="https://github.com/LiWenGu">
     <img src="https://avatars0.githubusercontent.com/u/15909210?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/fanofxiaofeng">
+    <img src="https://avatars0.githubusercontent.com/u/3983683?s=460&v=4" width="45px">
 </a>
 <a href="https://github.com/fanchenggang">  
     <img src="https://avatars2.githubusercontent.com/u/8225921?s=460&v=4" width="45px">
